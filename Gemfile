@@ -3,7 +3,5 @@
 
 source 'http://rubygems.org'
 
-gem 'rails_config', '0.4.2'
-
 # Specify your gem's dependencies in quandl.gemspec
 gemspec
